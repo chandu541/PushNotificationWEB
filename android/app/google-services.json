@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515276168080",
+    "project_id": "macweb-27e4b",
+    "storage_bucket": "macweb-27e4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515276168080:android:ca4e3279a05a5df8a5f115",
+        "android_client_info": {
+          "package_name": "com.example.listviewscroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXW4wktxg-SGdC89_7HGDP1ayN4iwyG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
